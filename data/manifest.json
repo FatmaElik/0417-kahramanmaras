@@ -1,0 +1,90 @@
+[
+  {
+    "id": 0,
+    "original_id": "000000004925",
+    "score": 0.5143,
+    "damage_pct": 47.8,
+    "unique_vals": [
+      0.0,
+      2.0,
+      3.0
+    ],
+    "files": {
+      "sar": "patch_00_SAR.png",
+      "opt": "patch_00_OPT.png",
+      "sar_mask": "patch_00_SAR_MASK.png",
+      "opt_mask": "patch_00_OPT_MASK.png"
+    }
+  },
+  {
+    "id": 1,
+    "original_id": "000000004982",
+    "score": 0.5117,
+    "damage_pct": 38.8,
+    "unique_vals": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ],
+    "files": {
+      "sar": "patch_01_SAR.png",
+      "opt": "patch_01_OPT.png",
+      "sar_mask": "patch_01_SAR_MASK.png",
+      "opt_mask": "patch_01_OPT_MASK.png"
+    }
+  },
+  {
+    "id": 2,
+    "original_id": "000000004924",
+    "score": 0.4818,
+    "damage_pct": 43.1,
+    "unique_vals": [
+      0.0,
+      2.0,
+      3.0
+    ],
+    "files": {
+      "sar": "patch_02_SAR.png",
+      "opt": "patch_02_OPT.png",
+      "sar_mask": "patch_02_SAR_MASK.png",
+      "opt_mask": "patch_02_OPT_MASK.png"
+    }
+  },
+  {
+    "id": 3,
+    "original_id": "000000006971",
+    "score": 0.4483,
+    "damage_pct": 29.8,
+    "unique_vals": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ],
+    "files": {
+      "sar": "patch_03_SAR.png",
+      "opt": "patch_03_OPT.png",
+      "sar_mask": "patch_03_SAR_MASK.png",
+      "opt_mask": "patch_03_OPT_MASK.png"
+    }
+  },
+  {
+    "id": 4,
+    "original_id": "000000006945",
+    "score": 0.4362,
+    "damage_pct": 28.0,
+    "unique_vals": [
+      0.0,
+      1.0,
+      3.0,
+      4.0
+    ],
+    "files": {
+      "sar": "patch_04_SAR.png",
+      "opt": "patch_04_OPT.png",
+      "sar_mask": "patch_04_SAR_MASK.png",
+      "opt_mask": "patch_04_OPT_MASK.png"
+    }
+  }
+]
